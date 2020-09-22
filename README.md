@@ -1,7 +1,7 @@
 # Predict severity of Accident using Seattle accident data
 The **Seattle government** is going to prevent avoidable car accidents by employing methods that alert drivers, health system, and police to remind them to be more careful in critical situations.  
 The **main reasons** for car accidents are:-
-  - _Distracted Driving.
+  - _Distracted Driving_.
   - _Speeding._
   - _Drunk Driving._
   - _Reckless Driving._
